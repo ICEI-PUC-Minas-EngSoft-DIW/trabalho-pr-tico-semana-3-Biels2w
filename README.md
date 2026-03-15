@@ -6,4 +6,4 @@
 
 ## Print da tela da página criada (Curriculum Vitae)
 
-![curriculo](<public/img/print.png.png>)
+![curriculo](<public/img/print.png>)
